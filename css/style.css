@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    text-align: center;
+    margin: 20px;
+    font-family: 'Kaushan Script', cursive;
+}
+
+body #app-films li {
+    color: #f6be00;
+}
+
+body #app-films li p {
+    color: #bf597f;
+}
+
+body li {
+    display: inline;
+    font-family: 'Permanent Marker', cursive;
+    list-style-type: disc;
+    padding: 20px;
+    color: #36ad80;
+}
+
+body li p {
+    color: #FF4C4C;
+    padding: 20px;
+}
+
+/*# sourceMappingURL=style.css.map */
